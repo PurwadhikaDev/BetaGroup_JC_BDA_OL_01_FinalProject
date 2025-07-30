@@ -67,3 +67,9 @@ We broke down the analysis into several perspectives:
 - Bundled service offerings with streaming, security, or tech support can reduce churn.
 - Payment method and billing type influence churn—electronic payments and paperless billing show higher churn tendencies.
 
+---
+
+## Dashboard
+
+The dashboard for this data is being provided via Looker Studio here:
+https://lookerstudio.google.com/reporting/322fec3e-947a-4347-b2f6-04ed92030479/page/Q6jSF
