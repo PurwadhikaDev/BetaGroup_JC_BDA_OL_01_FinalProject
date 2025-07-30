@@ -31,7 +31,7 @@ We conducted several preprocessing steps to clean and structure the data:
 - **Handling Duplicates:** Removed identical rows to ensure data quality.
 - **Missing Value Treatment:** Imputed or removed rows with missing data (e.g., `TotalCharges` with blank values).
 - **Dropping Anomalies/Outliers:** Excluded records with zero tenure or suspicious charge values.
-- **Feature Engineering:** Created new features (e.g., total add-ons, grouped service types) for deeper analysis.
+- **Data Transformation:** Created new features (such as total add-ons, grouped service types, etc) for deeper analysis.
 
 ---
 
